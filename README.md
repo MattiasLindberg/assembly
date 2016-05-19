@@ -6,8 +6,6 @@
 4. logic: use if and while constructs
 5. mandel: mandelbrot fractal
 
-# Download binaries
-
 ## NASM
 http://www.nasm.us/ 
 
