@@ -1,7 +1,7 @@
 # Some experiments with assembly language
 The purpose of this repository is to experiment with NASM assembler, just because it is fun! Playing with this type of projects makes life more fun.
 
-So far this samples are available:
+So far these samples are available:
 
 1. empty: minimal program, just a main and a return
 2. printf: show usage of C-function printf, needed to show output from coming samples
